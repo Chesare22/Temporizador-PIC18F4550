@@ -14,7 +14,8 @@ del diseño. Con comentarios escritos en primera persona.
 <dd>
 Único archivo de mi autoría. El diseño usa una máquina de estados para tener un control
 a pesar de las interrupciones. Se explica qué significa cada uno de los estados y qué acciones
-se deben realizar cuando alguno sea el estado actual. Nota: Al final se cambió el estado inicial de 0 a 1.
+se deben realizar cuando alguno sea el estado actual. Nota: Al final se eliminó el estado 0 del proyecto
+  y el nuevo estado inicial pasó a ser el 1
 </dd>
 
 <dt>Código funcional</dt>
